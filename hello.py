@@ -29,9 +29,9 @@
 # name = 123
 # print(name)
 
-# Rules for variables:
-# 1number = 4, special chacr #,num&ber -> not allowed
-# letter,_,num123ber -> allowed
+Rules for variables:
+1number = 4, special chacr #,num&ber -> not allowed
+letter,_,num123ber -> allowed
 
 Convention or Recommendatio
 Num_123_ber: snake case writting
